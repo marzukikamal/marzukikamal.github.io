@@ -7,6 +7,9 @@ What I'm focused on now - updated November 17
 
 ## Doing
 
+* This website
+* Job hunting
+
 ## Learning
 
 * Trying to explore and understand [cybersecurity/ethical hacking](https://www.udemy.com/course/learn-ethical-hacking-from-a-z-beginner-to-expert-course/)
