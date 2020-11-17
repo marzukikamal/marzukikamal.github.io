@@ -54,8 +54,8 @@ menu:
     url:               /now/
   - title:             Blog
     url:               /blog/
-  - title:             Contact
-    url:               /contact/
+  # - title:             Contact
+  #   url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -342,8 +342,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            <username>
 
 # Used for facebook open graph
 # facebook:
@@ -352,11 +352,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                Marzuki Kamal
+  links:
+    - https://twitter.com/marzukikamal
+    - https://github.com/marzukikamal
 
 
 # Plugin Configs
