@@ -23,8 +23,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         marzukikamal
+    linkedin:        marzukikamal
     github:          marzukikamal
-    # email:           <mail@domain.tld>
+    email:           mk@mrzkk.ml
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -34,8 +35,8 @@ author1:
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      marzukikamal
-    lastfm:          marzukikamal
-    instagram:       marzukikamal
+    # lastfm:          marzukikamal
+    # instagram:       marzukikamal
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -53,7 +54,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
