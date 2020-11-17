@@ -7,4 +7,4 @@ hide_image: false
 cover: true
 ---
 
-# Hi, I'm Marzuki Kamal
+Hi, I'm Marzuki.
