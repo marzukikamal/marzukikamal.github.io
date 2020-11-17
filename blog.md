@@ -2,8 +2,5 @@
 layout: blog
 title: Blog
 grouped: true
-last_modified_at: 2020-11-17
-no_link_title: false 
-no_excerpt: false 
-hide_image: false
+menu: true
 ---
