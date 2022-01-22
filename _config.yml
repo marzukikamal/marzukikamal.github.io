@@ -25,10 +25,10 @@ title:                 Marzuki Kamal
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Engineer turned Data Scientist
+  multipotentialite
 
 # A shorter description for the sidebar.
-tagline:               Engineer turned Data Scientist
+tagline:               multipotentialite
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,7 +42,7 @@ logo:                  /assets/img/profilepic-128.jpg
 author:
   # Used by `jekyll-feed`:
   name:                Marzuki Kamal
-  email:               mk@mrzkk.ml
+  email:               me@marzukikamal.com
   # Used by `jekyll-seo-tag`:
   twitter:             marzukikamal
 
