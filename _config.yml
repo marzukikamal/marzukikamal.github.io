@@ -42,20 +42,20 @@ logo:                  /assets/img/profilepic-128.jpg
 author:
   # Used by `jekyll-feed`:
   name:                Marzuki Kamal
-  email:               me@marzukikamal.com
+  email:               marzuki@marzukikamal.com
   # Used by `jekyll-seo-tag`:
   twitter:             marzukikamal
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /about/
-  - title:             Now
-    url:               /now/
-  - title:             Blog
-    url:               /blog/
+  # - title:             About
+    # url:               /about/
+  # - title:             Now
+    # url:               /now/
+  # - title:             Blog
+    # url:               /blog/
   # - title:             Contact
-  #   url:               /contact/
+    # url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
